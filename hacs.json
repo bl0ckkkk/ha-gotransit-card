@@ -1,0 +1,6 @@
+{
+  "name": "GO Transit Card",
+  "filename": "go-transit-card.js",
+  "render_readme": true,
+  "homeassistant": "2023.4.0"
+}
