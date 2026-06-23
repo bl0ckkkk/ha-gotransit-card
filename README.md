@@ -10,6 +10,21 @@ A Lovelace card for the [GO Transit integration](https://github.com/bl0ckkkk/ha-
 
 ---
 
+## Screenshots
+
+> Representative renderings. The `dense` map panel is rendered live by Home Assistant's own map card; here it's shown as a placeholder.
+
+### light
+<img src="images/light.png" alt="GO Transit Card — light layout" width="430">
+
+### medium
+<img src="images/medium.png" alt="GO Transit Card — medium layout" width="430">
+
+### dense
+<img src="images/dense.png" alt="GO Transit Card — dense layout with map" width="430">
+
+---
+
 ## Install
 
 ### Via HACS (recommended)
